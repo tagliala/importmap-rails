@@ -24,7 +24,7 @@
 # Ignore Gemfile.lock files for Rails main branch.
 /gemfiles/rails_main*.gemfile.lock
 
-/docs/.vitepress/cache
+/docs/.vitepress
 
 ## Gemfiles
 gemfiles/*.lock
