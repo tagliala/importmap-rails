@@ -10,7 +10,7 @@
     "docs:serve": "vitepress serve docs --port 5173"
   },
   "devDependencies": {
-    "vitepress": "2.0.0-alpha.19",
+    "vitepress": "2.0.0-alpha.20",
     "vue": "^3.5.41"
   },
   "packageManager": "bun",
